@@ -5,6 +5,7 @@
 ![image](https://github.com/user-attachments/assets/aaef56a3-8038-40c2-b88c-838872b6883f)
 
 🦾 my_robot_description
+
 This package provides a description of a mobile robot designed for use in the ROS 2 Humble environment. It defines the robot's physical structure, joints, and sensor placements using URDF/Xacro format. It also includes configurations for visualizing the robot in RViz2.
 
 📁 Directory Structure
