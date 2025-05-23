@@ -10,14 +10,21 @@ This package provides a description of a mobile robot designed for use in the RO
 📁 Directory Structure
 
 my_robot_description/
+
 ├── launch/
+
 │   └── display.launch.py         # Launch file to visualize the robot in RViz2
+
 ├── rviz/
 │   └── my_robot.rviz             # RViz2 configuration file
+
 ├── urdf/
 │   └── my_robot.urdf.xacro       # Robot description in Xacro format
+
 ├── package.xml
+
 ├── CMakeLists.txt
+
 └── README.md
 
 🚀 Installation & Build
