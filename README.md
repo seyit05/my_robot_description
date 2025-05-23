@@ -1,3 +1,5 @@
 # my_robot_description
  
 ![image](https://github.com/user-attachments/assets/02e6894b-1940-4a2c-b978-3cbc0218de89)
+
+![image](https://github.com/user-attachments/assets/aaef56a3-8038-40c2-b88c-838872b6883f)
